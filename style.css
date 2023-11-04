@@ -1,0 +1,53 @@
+.container  {
+    font-size:2rem;
+    height: 400px;
+    width: 2500px;
+}
+.center {
+    text-align: center;
+    /*vertical-align: middle;
+    display: table-cell; */
+   /* line-height: 400px; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: xx-large;
+}
+
+.box{
+    display: flex;
+}
+div{
+ width: 25%;
+ height: 200px;
+    display: inline;
+}
+.box-1 {
+    font-size: x-large;
+    position: relative;
+    left:750px;
+}
+.box-2{
+    font-size: x-large;
+
+    position: relative;
+    left:950px;
+
+}
+.box-3{
+    font-size: x-large;
+    position: relative;
+    left:1100px;
+}
+.box-4{
+    font-size: xx-large;                                                                                                                                                                                                                            
+    position:relative;
+    left:800px;
+}
+.box-5{
+    font-size: xx-large;
+    position: relative;
+}
+.box-6 {
+ font-size: xx-large;
+}
